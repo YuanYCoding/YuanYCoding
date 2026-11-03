@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="YuanYCoding — Agent 应用开发。把想法变成可使用、可验证、可复用的 Agent 应用。" src="assets/hero-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/hero-light.svg">
+  <img alt="YuanYCoding — Agent 应用开发。把想法变成可使用、可验证、可复用的 Agent 应用。" src="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/hero-light.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -24,9 +24,9 @@
 
 <p><a href="https://github.com/YuanYCoding/vibe-scaffold-kit">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/scaffold-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/scaffold-light.svg">
-    <img alt="vibe-scaffold-kit — 从需求澄清到可运行工程。Codex 插件与项目生成器。" src="assets/scaffold-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/scaffold-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/scaffold-light.svg">
+    <img alt="vibe-scaffold-kit — 从需求澄清到可运行工程。Codex 插件与项目生成器。" src="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/scaffold-light.svg" width="100%">
   </picture>
 </a></p>
 
@@ -34,9 +34,9 @@
 
 <p><a href="https://github.com/YuanYCoding/use-agentsmd">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/agentsmd-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/agentsmd-light.svg">
-    <img alt="use-agentsmd — 让项目规则跟上代码变化。按 Vibe coding 阶段维护 AGENTS.md。" src="assets/agentsmd-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/agentsmd-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/agentsmd-light.svg">
+    <img alt="use-agentsmd — 让项目规则跟上代码变化。按 Vibe coding 阶段维护 AGENTS.md。" src="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/agentsmd-light.svg" width="100%">
   </picture>
 </a></p>
 
@@ -44,9 +44,9 @@
 
 <p><a href="https://github.com/YuanYCoding/regex-forge">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/regex-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/regex-light.svg">
-    <img alt="RegexForge — 从自然语言到可测试的正则。生成、批量测试与适配修正。" src="assets/regex-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/regex-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/regex-light.svg">
+    <img alt="RegexForge — 从自然语言到可测试的正则。生成、批量测试与适配修正。" src="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/regex-light.svg" width="100%">
   </picture>
 </a></p>
 
@@ -54,9 +54,9 @@
 
 <p><a href="https://github.com/YuanYCoding/decision_expert">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/decision-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/decision-light.svg">
-    <img alt="decision_expert — 让重要判断经得起推敲。反驳、支持、证据裁决与反转条件。" src="assets/decision-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/decision-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/decision-light.svg">
+    <img alt="decision_expert — 让重要判断经得起推敲。反驳、支持、证据裁决与反转条件。" src="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/decision-light.svg" width="100%">
   </picture>
 </a></p>
 
@@ -68,9 +68,9 @@
 ## How I build · 构建方式
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/process-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/process-light.svg">
-  <img alt="澄清需求 → 构建能力 → 验证结果 → 沉淀复用" src="assets/process-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/process-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/process-light.svg">
+  <img alt="澄清需求 → 构建能力 → 验证结果 → 沉淀复用" src="https://cdn.jsdelivr.net/gh/YuanYCoding/YuanYCoding@3f6480817a6d93af1c6c981af5d82b415d8299a5/assets/process-light.svg" width="100%">
 </picture>
 
 - **从问题出发**：先明确目标、约束和成功条件，再选择实现方式。
