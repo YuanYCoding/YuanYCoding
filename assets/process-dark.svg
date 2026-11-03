@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="176" viewBox="0 0 1600 176" role="img" aria-labelledby="title">
+<title id="title">澄清需求 → 构建能力 → 验证结果 → 沉淀复用</title>
+<defs><linearGradient id="wash" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111b35"/><stop offset="1" stop-color="#172441"/></linearGradient>
+<pattern id="dots" width="30" height="30" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#334569" opacity="0.55"/></pattern></defs>
+<rect width="1600" height="176" rx="28" fill="url(#wash)"/>
+<style>text{font-family:'Segoe UI','Microsoft YaHei','Noto Sans CJK SC',sans-serif}.display{font-family:Bahnschrift,'Segoe UI',sans-serif}.mono{font-family:'Cascadia Code',Consolas,monospace}</style>
+<circle cx="92" cy="87" r="26" fill="#172441" stroke="#9ab4ff" stroke-width="2"/>
+<text x="92" y="95" font-size="23" fill="#9ab4ff" font-weight="600" class="mono" text-anchor="middle">1</text>
+<text x="140" y="82" font-size="31" fill="#eef3ff" font-weight="600" class="" text-anchor="start">澄清需求</text>
+<text x="142" y="116" font-size="17" fill="#9ab4ff" font-weight="600" class="mono" text-anchor="start" letter-spacing="1.5">CLARIFY</text>
+<path d="M351 87 H403 M395 79 L403 87 L395 95" fill="none" stroke="#334569" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="487" cy="87" r="26" fill="#172441" stroke="#c4adff" stroke-width="2"/>
+<text x="487" y="95" font-size="23" fill="#c4adff" font-weight="600" class="mono" text-anchor="middle">2</text>
+<text x="535" y="82" font-size="31" fill="#eef3ff" font-weight="600" class="" text-anchor="start">构建能力</text>
+<text x="537" y="116" font-size="17" fill="#c4adff" font-weight="600" class="mono" text-anchor="start" letter-spacing="1.5">BUILD</text>
+<path d="M746 87 H798 M790 79 L798 87 L790 95" fill="none" stroke="#334569" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="882" cy="87" r="26" fill="#172441" stroke="#79d6d1" stroke-width="2"/>
+<text x="882" y="95" font-size="23" fill="#79d6d1" font-weight="600" class="mono" text-anchor="middle">3</text>
+<text x="930" y="82" font-size="31" fill="#eef3ff" font-weight="600" class="" text-anchor="start">验证结果</text>
+<text x="932" y="116" font-size="17" fill="#79d6d1" font-weight="600" class="mono" text-anchor="start" letter-spacing="1.5">VERIFY</text>
+<path d="M1141 87 H1193 M1185 79 L1193 87 L1185 95" fill="none" stroke="#334569" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1277" cy="87" r="26" fill="#172441" stroke="#e6c58e" stroke-width="2"/>
+<text x="1277" y="95" font-size="23" fill="#e6c58e" font-weight="600" class="mono" text-anchor="middle">4</text>
+<text x="1325" y="82" font-size="31" fill="#eef3ff" font-weight="600" class="" text-anchor="start">沉淀复用</text>
+<text x="1327" y="116" font-size="17" fill="#e6c58e" font-weight="600" class="mono" text-anchor="start" letter-spacing="1.5">REUSE</text>
+</svg>
